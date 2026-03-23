@@ -5,16 +5,10 @@
 1\. Download the \`Eminence Dark.xaml\`file.  
 2\. Place it in your Flow Launcher themes folder :
 
-| \`%AppData%\\FlowLauncher\\Settings\\Themes\\\`  |
-| :---- |
-
-**or** 
-
 | %AppData%\\Roaming\\FlowLauncher\\Themes |
 | :---- |
 
 3\. Restart FlowLauncher and select the theme “Eminence Dark”
-
 
 ![][image1]
 
