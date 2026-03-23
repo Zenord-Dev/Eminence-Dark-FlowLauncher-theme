@@ -15,7 +15,6 @@
 
 3\. Restart FlowLauncher and select the theme “Eminence Dark”
 
-Screenshots 📸:
 
 ![][image1]
 
